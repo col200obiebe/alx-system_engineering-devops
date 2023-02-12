@@ -1,0 +1,4 @@
+#!/bin/bash
+#printing path to the current walking directory
+pwd
+
