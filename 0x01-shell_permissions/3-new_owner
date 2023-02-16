@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwon hello betty
+chwon hello betty
