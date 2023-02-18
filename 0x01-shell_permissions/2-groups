@@ -1,2 +1,2 @@
-#!/bin/bashsui
-chown betty:hello hello 
+#!/bin/bash
+ls -la   
